@@ -24,9 +24,7 @@ if n>1:
             # pairs.append((a_i,j))
 
 else:
-    for i,j in enumerate(range(c,0,-1),1):
-        if i+j==c:
-            count += 1
+    count = c-1
 
 # print(len(pairs))
 print(count)
