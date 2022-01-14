@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0f07469-650e-4c6a-879f-4f909fbd573a": {
+      "ProjectGuid": "e0f07469-650e-4c6a-879f-4f909fbd573a",
+      "DisplayName": "DangerousTask",
+      "ColorIndex": 0
+    },
+    "37b4809b-2316-4f0a-8815-a08465caef25": {
+      "ProjectGuid": "37b4809b-2316-4f0a-8815-a08465caef25",
+      "DisplayName": "Santa",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,7 @@
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\bin\Debug\DangerousTask.exe.config
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\bin\Debug\DangerousTask.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\bin\Debug\DangerousTask.pdb
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\obj\Debug\DangerousTask.csproj.AssemblyReference.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\obj\Debug\DangerousTask.csproj.CoreCompileInputs.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\obj\Debug\DangerousTask.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\DangerousTask\obj\Debug\DangerousTask.pdb

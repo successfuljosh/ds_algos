@@ -1,0 +1,7 @@
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\bin\Debug\Snoballs.exe.config
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\bin\Debug\Snoballs.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\bin\Debug\Snoballs.pdb
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\obj\Debug\Snoballs.csproj.AssemblyReference.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\obj\Debug\Snoballs.csproj.CoreCompileInputs.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\obj\Debug\Snoballs.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Snoballs\obj\Debug\Snoballs.pdb

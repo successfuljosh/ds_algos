@@ -1,0 +1,7 @@
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\bin\Debug\Windmill.exe.config
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\bin\Debug\Windmill.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\bin\Debug\Windmill.pdb
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\obj\Debug\Windmill.csproj.AssemblyReference.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\obj\Debug\Windmill.csproj.CoreCompileInputs.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\obj\Debug\Windmill.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Windmill\obj\Debug\Windmill.pdb

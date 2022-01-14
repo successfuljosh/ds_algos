@@ -1,0 +1,7 @@
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\bin\Debug\Mushrooms.exe.config
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\bin\Debug\Mushrooms.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\bin\Debug\Mushrooms.pdb
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\obj\Debug\Mushrooms.csproj.AssemblyReference.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\obj\Debug\Mushrooms.csproj.CoreCompileInputs.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\obj\Debug\Mushrooms.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\Mushrooms\obj\Debug\Mushrooms.pdb

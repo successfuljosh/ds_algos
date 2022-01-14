@@ -1,0 +1,8 @@
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\bin\Debug\Santa.exe.config
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\bin\Debug\Santa.exe
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\bin\Debug\Santa.pdb
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\obj\Debug\Santa.csproj.AssemblyReference.cache
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\obj\Debug\Santa.csproj.SuggestedBindingRedirects.cache
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\obj\Debug\Santa.csproj.CoreCompileInputs.cache
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\obj\Debug\Santa.exe
+C:\Users\SuccessfullyBlessed\OneDrive\DataStructure\dataStructureCSharp\Santa\obj\Debug\Santa.pdb

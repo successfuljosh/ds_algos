@@ -1,0 +1,7 @@
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\IAMTRIPLE\OneDrive\DataStructure\dataStructureCSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
