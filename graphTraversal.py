@@ -21,17 +21,16 @@ def dfs(graph, start, visited = None):
 #BREADTH FIRST SEARCH
 def bfs(graph, startnode):
 # Track the visited and unvisited nodes using queue
-   seen, queue = set([startnode]), collections.deque([startnode])
+   seen = set([startnode])
+   queue = collections.deque([startnode])
    while queue:
       vertex = queue.popleft()
-      marked(vertex)
+      print(vertex, end=' ')
       for node in graph[vertex]:
          if node not in seen:
             seen.add(node)
             queue.append(node)
 
-def marked(n):
-   print(n, end=' ')
 
 
 # The graph dictionary
@@ -44,6 +43,8 @@ gdict = {
    "f" : set()
 }
 
-re = dfs(gdict, 'f')
+# re = dfs(gdict, 'f')
 bfs(gdict, "a")
-print('re',re)
+# print('re',re)
+d = {2:1, 3:2, -1:9}
+print(max(d))
